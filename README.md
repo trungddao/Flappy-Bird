@@ -11,17 +11,16 @@ Restart: The game can be restarted by clicking or pressing the space bar after a
 
 
 Getting Started
-
 To run the game locally, follow these steps:
 
 
 Clone the Repository:
-
 bash
 Copy code
 git clone https://github.com/trungddao/flappy-bird.git
-Compile and Run:
 
+
+Compile and Run:
 bash
 Copy code
 cd flappy-bird
