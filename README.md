@@ -9,6 +9,7 @@ Simple Controls: Control the bird by clicking the mouse or pressing the space ba
 Score Tracking: Keep track of your score as you successfully navigate through columns.
 Restart: The game can be restarted by clicking or pressing the space bar after a game-over.
 
+
 Getting Started
 
 To run the game locally, follow these steps:
@@ -30,8 +31,6 @@ Game Controls:
 
 Mouse Click: Jump
 Space Bar: Jump
-Screenshots
-Include some screenshots of your game here to give users a quick preview.
 
 
 Contributing
@@ -45,5 +44,7 @@ Open a pull request.
 
 
 Acknowledgments
+This is a simple implementation of the classic Flappy Bird game, not my origional idea
+
 
 Feel free to customize this template based on your specific project details and preferences.
